@@ -1,0 +1,14 @@
+﻿  game.cpp
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(72): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(77): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(83): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(88): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(98): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(102): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(295): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(300): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(336): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(341): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\visual studio projects\sfml_template1\sfml_template1\game.cpp(346): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  SFML_Template1.vcxproj -> D:\Visual Studio Projects\SFML_Template1\Debug\SFML_Template1.exe
+  SFML_Template1.vcxproj -> D:\Visual Studio Projects\SFML_Template1\Debug\SFML_Template1.pdb (Full PDB)
