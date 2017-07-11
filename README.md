@@ -1,3 +1,4 @@
 # Ping Game ( Ping-Pong Clone )
-### [ C++ ] [ SFML ]
+#### [ C++ ] [ SFML ]
 ###### by Matthew Roberts
+Open solution in Visual Studio. 
